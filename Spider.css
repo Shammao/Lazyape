@@ -1,0 +1,46 @@
+
+footer
+{
+	background-color: blue;margin: 0 auto;padding: 40px;
+}
+main
+{
+	background-color: red;text-align: center;max-width: 1000px;margin: 0 auto;
+}
+body
+{
+	background-color: red;margin: 0;
+}
+header
+{
+	background-color: blue;text-align: center;padding-top: 50px;padding-bottom: 50px;
+}
+header img
+{
+	border-radius: 170px;width: 300px;border: 10px solid red;
+}
+.poo
+{
+	color: red;font-size: 30px;font-family: 'Oxanium';
+}
+
+.piss
+{
+	font-family: 'Oxanium';
+}
+.List
+{
+	font-family: 'Oxanium';font-size: 40px;text-align: left;
+}
+.poo1
+{
+	color: blue;font-family: 'Oxanium';
+}
+.Headings
+{
+	font-family: 'Oxanium';font-size: 30px;
+}
+a:hover
+{
+	background-color: blue; color: red;
+}
